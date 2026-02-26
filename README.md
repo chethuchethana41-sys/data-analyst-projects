@@ -12,7 +12,7 @@ The dashboard enables business users to monitor key performance indicators, eval
 
 ## Dashboard Overview 1
 
-![Dashboard Overview 1](screenshots/Dashboard overview1.png)
+![Dashboard Overview 1](screenshots/Dashboard Overview1.png)
 
 This section of the dashboard provides a high-level summary of overall sales performance. It highlights the key performance indicators that are critical for evaluating business growth and operational effectiveness.
 
@@ -26,7 +26,7 @@ This overview plays an important role in executive-level reporting, as it provid
 
 ## Dashboard Overview 2
 
-![Dashboard Overview 2](screenshots/Dashboard overview2.png)
+![Dashboard Overview 2](screenshots/Dashboard Overview2.png)
 
 This section focuses on detailed sales analysis, providing deeper visibility into product performance, customer behavior, and category-level trends.
 
@@ -96,3 +96,4 @@ https://www.linkedin.com/in/chethana-ck-374429380
 ---
 
 This project demonstrates the ability to perform structured data analysis and build professional dashboards that support business decision-making.
+
