@@ -1,99 +1,125 @@
+<div align="center">
+
 # AdventureWorks Sales Performance Dashboard
 
-This project presents a comprehensive sales performance analysis using the AdventureWorks dataset. The dashboard was designed to transform raw sales data into a structured and meaningful visual representation, enabling clear understanding of business performance, customer behavior, and product trends.
+Professional Business Intelligence Dashboard built using Power BI to analyze sales performance, profitability, customer segments, and regional growth patterns using the AdventureWorks dataset.
 
-The objective of this project was to simulate a real-world business scenario where stakeholders require accurate, structured, and interactive reporting to support operational and strategic decision-making.
+<br>
 
-The dashboard enables business users to monitor key performance indicators, evaluate sales distribution across customer segments, and identify important trends affecting revenue performance.
+<a href="project.pbix">
+<img src="https://img.shields.io/badge/View-PowerBI Dashboard-blue?style=for-the-badge&logo=powerbi">
+</a>
 
----
+<a href="Dashboard overview1.png">
+<img src="https://img.shields.io/badge/View-Dashboard Preview-green?style=for-the-badge">
+</a>
 
-# Dashboard Overview
+<a href="dashboard overview2.png">
+<img src="https://img.shields.io/badge/View-Insights-orange?style=for-the-badge">
+</a>
 
-## Dashboard Overview 1
-
-![Dashboard Overview 1](screenshots/Dashboard Overview1.png)
-
-This section of the dashboard provides a high-level summary of overall sales performance. It highlights the key performance indicators that are critical for evaluating business growth and operational effectiveness.
-
-The KPI indicators provide a clear summary of total sales, overall transaction volume, and performance trends. These metrics allow stakeholders to quickly assess whether the business is performing as expected.
-
-The visual elements in this section help identify general performance patterns, allowing decision-makers to understand overall sales distribution and performance trends. This supports performance monitoring and helps identify whether the business is growing, stable, or declining.
-
-This overview plays an important role in executive-level reporting, as it provides a concise summary of business performance without requiring deep technical analysis.
+</div>
 
 ---
 
-## Dashboard Overview 2
+## Executive Summary
 
-![Dashboard Overview 2](screenshots/Dashboard Overview2.png)
+This project presents a complete sales performance analysis solution developed using Microsoft Power BI. The dashboard transforms raw transactional sales data into meaningful business intelligence, enabling decision-makers to monitor performance, identify growth opportunities, and improve profitability.
 
-This section focuses on detailed sales analysis, providing deeper visibility into product performance, customer behavior, and category-level trends.
+The analysis focuses on key performance indicators including total sales, profit, product performance, regional trends, and customer distribution. The dashboard provides an intuitive, interactive interface that allows users to explore data dynamically and gain actionable insights.
 
-The visualizations in this section allow identification of high-performing and low-performing products. This helps businesses understand which products generate the most revenue and which areas require improvement.
-
-Customer-related insights provide visibility into purchasing behavior, allowing businesses to better understand their customer base. This information is valuable for improving customer targeting and marketing strategies.
-
-The dashboard also allows trend analysis, helping identify changes in performance across different periods. This is critical for forecasting and business planning.
-
-This level of detailed analysis supports operational decision-making and helps improve overall business performance.
+This project demonstrates practical skills in data modeling, business intelligence development, data visualization, and analytical storytelling.
 
 ---
 
-# Data Preparation and Processing
+## Dashboard Preview
 
-Before building the dashboard, the dataset was carefully prepared to ensure accuracy and reliability.
+<img src="Dashboard overview1.png" width="1000">
 
-The data preparation process included cleaning the raw dataset, correcting formatting issues, and ensuring consistency across all fields. Duplicate records and incomplete data entries were handled appropriately to maintain data quality.
-
-Data transformation was performed to ensure compatibility with dashboard visualization requirements. Structured data preparation ensures that dashboard insights are accurate and reliable.
-
-This process reflects real-world data analytics workflows, where proper data preparation is essential before performing analysis.
+<img src="dashboard overview2.png" width="1000">
 
 ---
 
-# Business Value and Insights
+## Business Problem
 
-This dashboard provides meaningful business value by enabling data-driven decision-making.
+Organizations generate large volumes of sales data but often lack clear visibility into performance drivers. Without proper analysis, decision-makers cannot identify profitable products, high-performing regions, or growth opportunities.
 
-The analysis helps identify which products contribute most to revenue and which areas require attention. It also provides insights into customer purchasing behavior, helping businesses better understand their customers.
-
-The ability to visualize trends allows organizations to monitor performance over time and make strategic adjustments when necessary.
-
-This type of dashboard is commonly used in business intelligence environments to support reporting, monitoring, and performance evaluation.
+The objective of this project was to design a professional dashboard that provides clear visibility into sales performance and enables data-driven decision-making.
 
 ---
 
-# Skills Demonstrated
+## Key Insights Generated
 
-This project demonstrates practical data analytics skills including data preparation, dashboard design, and business analysis.
+The dashboard provides several critical business insights.
 
-It reflects the ability to convert raw data into meaningful insights and present those insights in a structured and professional manner.
+Sales performance analysis shows total revenue of over ₹29 million with strong profit margins across multiple regions. Regional analysis reveals that Australia and North America are the highest contributing territories, indicating strong market demand and business growth potential in these areas.
 
-The project also demonstrates strong analytical thinking and the ability to design dashboards suitable for business environments.
+Product performance analysis identifies top-performing products contributing significantly to overall revenue. This allows business teams to focus on high-value product categories and optimize inventory planning.
 
----
+Customer segmentation analysis highlights how different customer education groups contribute to sales, enabling targeted marketing strategies.
 
-# Tools Used
+Profit trend analysis helps evaluate financial performance over time and identify opportunities to improve margins.
 
-Microsoft Excel was used to perform data preparation, transformation, and dashboard creation.
-
-Excel provides powerful capabilities for structured data analysis and visualization, making it suitable for building business dashboards.
+These insights enable strategic planning, performance monitoring, and operational optimization.
 
 ---
 
-# Author
+## Dashboard Features
 
-Chethana C K  
-Data Analyst  
+The dashboard includes several professional features designed for business users.
 
-GitHub Profile:  
-https://github.com/chethuchethana41-sys  
+Interactive filters allow users to explore data by year, region, and product category. KPI cards provide high-level performance indicators including total sales and profit.
 
-LinkedIn Profile:  
-https://www.linkedin.com/in/chethana-ck-374429380  
+Visualizations include:
+
+• Sales distribution by region  
+• Top performing products  
+• Profit trends over time  
+• Customer segmentation analysis  
+• Regional profit and revenue comparison  
+
+The dashboard design follows professional business intelligence standards, ensuring clarity, usability, and decision-making effectiveness.
 
 ---
 
-This project demonstrates the ability to perform structured data analysis and build professional dashboards that support business decision-making.
+## Technical Implementation
 
+This project was implemented using industry-standard business intelligence tools and techniques.
+
+Data was imported, cleaned, and transformed using Power BI Power Query. Data modeling was performed to establish relationships between tables and enable efficient analysis.
+
+Measures and calculated fields were created to compute key business metrics such as total sales and profit.
+
+Professional visualizations were designed using Power BI to present insights clearly and effectively.
+
+The dashboard was optimized for performance and usability.
+
+---
+
+## Skills Demonstrated
+
+Business Intelligence Development  
+Data Analysis and Interpretation  
+Power BI Dashboard Development  
+Data Visualization and Storytelling  
+KPI Design and Performance Monitoring  
+Data Modeling  
+Business Performance Analysis  
+
+---
+
+## Business Value
+
+This dashboard enables organizations to monitor sales performance, identify high-performing products and regions, and make informed strategic decisions.
+
+It improves visibility into business operations and supports data-driven decision-making.
+
+This type of solution is widely used in real-world enterprise environments.
+
+---
+
+<div align="center">
+
+Power BI | Data Analysis | Business Intelligence | Dashboard Development
+
+</div>
